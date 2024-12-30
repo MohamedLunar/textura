@@ -10,6 +10,7 @@ Textura is a lightweight Python library for adding colors and styles to your ter
 - 🧽 Reset functionality to clear formatting.
 
 # Installation
+## #1 Automatically
 📩 You Can install package by executing:
 ```bash
 pip install textura
@@ -18,6 +19,18 @@ or
 ```bash
 python -m pip install textura
 ```
+## #2 Manually
+You can install the package from the [realeases](https://github.com/MohamedLunar/textura/releases) and download the source code and unpack it and execute the following command in terminal
+```bash
+cd /sdcard/textura
+python setup.py install
+```
+or
+```bash
+pip install -e /sdcard/textura
+```
+### NOTE:
+if you're using linux or windows change the `/sdcard` to `desktop`
 ## Quick Start
 You can try the package for the first time by:
 ```python

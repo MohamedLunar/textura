@@ -20,7 +20,7 @@ or
 python -m pip install textura
 ```
 ## #2 Manually
-You can install the package from the [realeases](https://github.com/MohamedLunar/textura/releases) and download the source code and unpack it and execute the following command in terminal
+You can install the package from the [realeases](https://github.com/MohamedLunar/textura/releases) and download the `textura.zip` file and unpack it and execute the following command in terminal
 ```bash
 cd /sdcard/textura
 python setup.py install

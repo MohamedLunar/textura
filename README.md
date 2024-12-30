@@ -1,3 +1,4 @@
+<img src="TexturaLogo.png" width="431" height="200">
 # Textura
 Textura is a lightweight Python library for adding colors and styles to your terminal text. 🎨
 

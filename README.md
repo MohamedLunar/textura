@@ -19,6 +19,10 @@ or
 ```bash
 python -m pip install textura
 ```
+or
+```bash
+pip install git+https://github.com/mohamedlunar/textura/
+```
 ## #2 Manually
 You can install the package from the [realeases](https://github.com/MohamedLunar/textura/releases) and download the `textura.zip` file and unpack it and execute the following command in terminal
 ```bash

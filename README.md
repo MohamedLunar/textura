@@ -1,19 +1,28 @@
 # Textura
+Textura is a lightweight Python library for adding colors and styles to your terminal text. 🎨
 
-`Textura` is a lightweight Python library that allows you to easily add stylish and colorful text to your terminal using ANSI escape sequences. It includes predefined colors, background colors, and text styles such as bold, underline, and reversed text.
-
-## Features:
-- **Foreground Colors**: Red, Green, Blue, Yellow, Magenta, Cyan, White
-- **Background Colors**: Red, Green, Blue, Yellow, Magenta, Cyan, White
-- **Text Styles**: Bold, Underlined, Reversed
-- **Helper Functions**: For easy text styling
+## Features
+- 🌟 Easy-to-use syntax.
+- 🎨 Support for foreground and background colors.
+- 📝 Text styles like bold, underline, and reversed.
+- 🧽 Reset functionality to clear formatting.
 
 ## Installation
-
-You can easily install `Textura` via pip:
-
+📩 You Can install package by executing:
 ```bash
 pip install textura
+```
+or
+```bash
+python -m pip install textura
+```
+## Quick Start
+You can try the package for the first time by:
+```python
+import textura
+from textura import Fore, Style
+
+print(Fore.RED + "This is a red text!" + Style.RESET)
 ```
 # Usage
 Here is full usage of package:

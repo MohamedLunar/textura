@@ -35,7 +35,7 @@ pip install -e /sdcard/textura
 ```
 ### NOTE:
 if you're using linux or windows change the `/sdcard` to `desktop`
-## Quick Start
+# Quick Start
 You can try the package for the first time by:
 ```python
 import textura

@@ -2,6 +2,10 @@
 
 # Textura
 Textura is a lightweight Python library for adding colors and styles to your terminal text. 🎨
+- **Website**: https://textura-black.vercel.app/
+- **Documents**: https://textura-black.vercel.app/docs/
+- **Source Code**: https://textura-black.vercel.app/src-code/
+
 
 # Features
 - 🌟 Easy-to-use syntax.
